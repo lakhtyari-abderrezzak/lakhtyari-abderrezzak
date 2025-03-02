@@ -2,7 +2,7 @@
 
 🚀 **Junior Full Stack Developer | PHP & Laravel Enthusiast**  
 
-I have **2 years of experience** as a **PHP Developer**, specializing in **Laravel, MySQL, and RESTful APIs**. Passionate about building high-performance web applications and continuously improving my coding skills.  
+With 2 years of experience as a PHP Developer, I specialize in Laravel, MySQL, and RESTful APIs. I’ve built and optimized high-performance web applications, improving load times and delivering seamless user experiences. Passionate about continuous learning, I stay up to date with the latest advancements in Laravel and PHP development to constantly refine my skills. Currently, I’m exploring Docker for containerization, Kubernetes for orchestration, Vue.js for front-end development, and Redis to improve caching performance. I’m also diving into continuous integration with GitHub Actions and enhancing my testing capabilities through Test-Driven Development (TDD) with PHPUnit. Additionally, I’m expanding my knowledge in advanced Laravel tools like Horizon and Passport, and looking into serverless architectures to further broaden my development expertise.
 
 ---
 
